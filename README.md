@@ -1,6 +1,4 @@
-# Pantry Inventory
-
-# (isn't working yet.. In Active Development)
+# Pantry Inventory (isn't working yet.. In Active Development)
 
 ## Overview
 
